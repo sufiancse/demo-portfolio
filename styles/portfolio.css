@@ -207,3 +207,8 @@ footer textarea{
     /* font-size: 16px; */
     margin-bottom: 24px;
 }
+.contact{
+    background-color: white;
+    color: black;
+    border:1px solid #FD6E0A;
+}
